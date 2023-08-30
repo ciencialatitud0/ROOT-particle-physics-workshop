@@ -1,9 +1,11 @@
 # Introduction to ROOT CERN as an analysis tool for particle physics
 
 ## Instructor:
-Gustavo Alejandro Loachamin Ordoñez, Master in Physics (Elementary Particles and Fields)
+Gustavo Alejandro Loachamin Ordoñez
+
 BSc in Physics, University of British Columbia, Canada
-MSc in Fields and Elementary Particles, PUC Rio de Janeiro, Brasil
+
+MSc in Physics (Fields and Elementary Particles), PUC Rio de Janeiro, Brasil
 
 ## Short description:
 
@@ -27,3 +29,12 @@ https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_w
 Before the start of the course, you should have ROOT installed in your laptops. Please follow the guidelines provided here:
 
 https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_workshop_marking.pdf
+
+## Workshop Organisers:
+
+Escuela de Ciencias Físicas y Nanotecnología, Universidad Yachay Tech, Ecuador
+
+Grupo de Investigadores Latitud Cero
+
+![ROOT-CERN](https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/assets/30240951/a39243a7-65fb-4364-a732-f78ad38cbcca)
+
