@@ -41,7 +41,13 @@ https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_w
 
 Escuela de Ciencias Físicas y Nanotecnología, Universidad Yachay Tech, Ecuador
 
+https://www.yachaytech.edu.ec/fisicaynanotec/
+
 Grupo de Investigadores Latitud Cero
+
+https://ciencialatitud0.github.io/EPIC_3/
+
+## Poster:
 
 ![ROOT-CERN](https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/assets/30240951/a39243a7-65fb-4364-a732-f78ad38cbcca)
 
