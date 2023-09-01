@@ -27,7 +27,7 @@ The evaluation will done continuously during the course, please see the details 
 
 https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_workshop_marking.pdf
 
-Certificates will be issued after the end of the workshop to those participants who complete all tasks.
+**Digital Certificates for 15 academic hours** will be issued after the end of the workshop to those participants who attend all Zoom classes and complete all tasks.
 
 
 ## IMPORTANT: ROOT pre-installation 
