@@ -20,6 +20,18 @@ Please see the full workshop plan here:
 
 https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_workshop_plan.pdf
 
+## Workshop Programme:
+
+- Live Zoom Session 1 (2 hours): Tuesday 5 September 2023 (19h00 - 21h00, UTC-5h)
+  
+- Live Zoom Session 2 (2 hours): Wednesday 6 September 2023 (19h00 - 21h00, UTC-5h)
+  
+- Live Zoom Session 3 (2 hours): Thursday 7 September 2023 (19h00 - 21h00, UTC-5h)
+  
+- Live Zoom Session 4 (2 hours): Friday 8 September 2023 (19h00 - 21h00, UTC-5h)
+
+- Autonomous work (7 hours): Pre-course task (ROOT CERN installation) + ROOT exercises
+
 
 ## Evaluation and Certificates:
 
