@@ -32,6 +32,10 @@ https://github.com/ciencialatitud0/ROOT-particle-physics-workshop/blob/main/YT_w
 
 - Autonomous work (7 hours): Pre-course task (ROOT CERN installation) + ROOT exercises
 
+## Zoom recordings:
+
+https://drive.google.com/u/0/open?id=1CHHtmB3uD0Kle4zflvwiDaERND3pKefP
+
 
 ## Evaluation and Certificates:
 
